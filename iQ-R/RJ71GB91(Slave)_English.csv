@@ -1,0 +1,17 @@
+Device,Comment,Device,Comment
+X00,Unit Ready,Y00,Not Used
+X01,Not Used,Y01,Not Used
+X02,Not Used,Y02,Not Used
+X03,Data Transmission Complete Flag,Y03,Data Transmission Request
+X04,Data Reception Flag,Y04,Data Reception Process Complete
+X05,Service Request Complete Flag,Y05,Service Request Request
+X06,Parallel Poll Response Data Setting Complete Flag,Y06,Parallel Poll Response Data Setting Request
+X07,Error Occurrence Flag,Y07,Error Clear Request
+X08,Not Used,Y08,Not Used
+X09,Not Used,Y09,Not Used
+X0A,Not Used,Y0A,Not Used
+X0B,Not Used,Y0B,Not Used
+X0C,GET Reception Flag,Y0C,GET Reception Process Complete
+X0D,DCL Reception Flag,Y0D,DCL Reception Process Complete
+X0E,IFC Reception Flag,Y0E,IFC Reception Process Complete
+X0F,Not Used,Y0F,Not Used 

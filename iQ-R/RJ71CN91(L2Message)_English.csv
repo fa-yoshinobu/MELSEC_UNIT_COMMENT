@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,Unit Ready,Y00,Not Used
+X01,Data Exchange Complete,Y01,Data Exchange Request
+X02,Unit Restart Complete,Y02,Unit Restart Request
+X03,Layer 2 Online Mode Status,Y03,Layer 2 Online Mode Request
+X04,Message Transmission Trigger Complete,Y04,Message Transmission Trigger Request
+X05,Not Used,Y05,Not Used
+X06,Not Used,Y06,Not Used
+X07,Not Used,Y07,Not Used
+X08,Not Used,Y08,Not Used
+X09,Not Used,Y09,Not Used
+X0A,Not Used,Y0A,Not Used
+X0B,Not Used,Y0B,Not Used
+X0C,Not Used,Y0C,Not Used
+X0D,Not Used,Y0D,Not Used
+X0E,Not Used,Y0E,Not Used
+X0F,RJ71CN91 Error,Y0F,RJ71CN91 Error Clear Request
+X10,Not Used,Y10,Not Used
+X11,Not Used,Y11,Not Used
+X12,Not Used,Y12,Not Used
+X13,Not Used,Y13,Not Used
+X14,Not Used,Y14,Not Used
+X15,Not Used,Y15,Not Used
+X16,Not Used,Y16,Not Used
+X17,Command Execution Complete,Y17,Command Execution Request
+X18,Not Used,Y18,Not Used
+X19,Not Used,Y19,Not Used
+X1A,Not Used,Y1A,Not Used
+X1B,Not Used,Y1B,Not Used
+X1C,Not Used,Y1C,Not Used
+X1D,Not Used,Y1D,Not Used
+X1E,Not Used,Y1E,Not Used
+X1F,Setting Save/Factory Setting Restore Complete,Y1F,Setting Save/Factory Setting Restore Request 

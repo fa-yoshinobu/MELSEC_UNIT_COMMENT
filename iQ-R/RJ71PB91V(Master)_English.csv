@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,Communication Start Complete Signal,Y00,Communication Start Request Signal
+X01,Communication Error Detection Signal,Y01,Communication Error Detection Reset Request Signal
+X02,Communication Error Area Clear Complete Signal,Y02,Communication Error Area Clear Request Signal
+X03,Not Used,Y03,Not Used
+X04,Global Control Complete Signal,Y04,Global Control Request Signal
+X05,Global Control Error Signal,Y05,Not Used
+X06,Extended Communication Error Information Read Response Signal,Y06,Extended Communication Error Information Read Request Signal
+X07,Not Used,Y07,Not Used
+X08,Not Used,Y08,Not Used
+X09,Not Used,Y09,Not Used
+X0A,Not Used,Y0A,Not Used
+X0B,Not Used,Y0B,Not Used
+X0C,Not Used,Y0C,Not Used
+X0D,Not Used,Y0D,Not Used
+X0E,Not Used,Y0E,Not Used
+X0F,Not Used,Y0F,Not Used
+X10,Operation Mode Signal,Y10,Not Used
+X11,Operation Mode Change Complete Signal,Y11,Operation Mode Change Request Signal
+X12,Not Used,Y12,Not Used
+X13,Not Used,Y13,Not Used
+X14,Not Used,Y14,Not Used
+X15,Not Used,Y15,Not Used
+X16,Not Used,Y16,Not Used
+X17,Not Used,Y17,Not Used
+X18,Alarm Read Response Signal,Y18,Alarm Read Request Signal
+X19,Time Control Start Response Signal,Y19,Time Control Start Request Signal
+X1A,Not Used,Y1A,Not Used
+X1B,Communication Ready Signal,Y1B,Not Used
+X1C,Not Used,Y1C,Not Used
+X1D,Unit Ready Signal,Y1D,Not Used
+X1E,Not Used,Y1E,Not Used
+X1F,Unit Watchdog Timer Error Signal,Y1F,Not Used 

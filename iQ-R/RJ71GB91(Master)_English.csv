@@ -1,0 +1,17 @@
+Device,Comment,Device,Comment
+X00,Unit Ready,Y00,Not Used
+X01,Not Used,Y01,Not Used
+X02,Interface Message Transmission Complete Flag,Y02,Interface Message Transmission Request
+X03,Data Transmission Complete Flag,Y03,Data Transmission Request
+X04,Data Reception Complete Flag,Y04,Data Reception Request
+X05,Not Used,Y05,Not Used
+X06,Not Used,Y06,Not Used
+X07,Error Occurrence Flag,Y07,Error Clear Request
+X08,Not Used,Y08,Not Used
+X09,Not Used,Y09,Not Used
+X0A,Not Used,Y0A,Not Used
+X0B,SRQ Reception Flag,Y0B,Not Used
+X0C,Not Used,Y0C,Not Used
+X0D,Not Used,Y0D,Not Used
+X0E,Not Used,Y0E,Not Used
+X0F,Not Used,Y0F,Not Used 

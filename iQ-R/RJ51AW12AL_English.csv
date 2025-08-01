@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,Unit Ready,Y00,Error Flag Clear Command
+X01,DP・DN Short Circuit Error,Y01,Address Auto Recognition Command
+X02,24V-DP Short Circuit Error,Y02,Address Duplication Check Command
+X03,Transmission Power Low Error,Y03,Not Used
+X04,"DP, DN Disconnection Error",Y04,Not Used
+X05,Not Used,Y05,Not Used
+X06,Not Used,Y06,Not Used
+X07,Not Used,Y07,Not Used
+X08,AnyWireASLINK Version Compatibility Check Error,Y08,Not Used
+X09,Backup/Restore Not Supported Error,Y09,Not Used
+X0A,Handshake Parameter Access Support Flag,Y0A,Not Used
+X0B,Parameter Access in Progress Flag (with Handshake),Y0B,Not Used
+X0C,Not Used,Y0C,Not Used
+X0D,AnyWireASLINK Version Compatibility Check in Progress Flag,Y0D,AnyWireASLINK Version Compatibility Check Command
+X0E,Not Used,Y0E,Not Used
+X0F,Adjustment Mode in Progress Flag,Y0F,Not Used
+X10,Remote Unit Alarm Signal,Y10,Remote Unit Parameter Access Request Command
+X11,Parameter Access Complete Flag,Y11,Remote Unit Parameter Read Command
+X12,Parameter Access Error,Y12,Remote Unit Parameter Write Command
+X13,Not Used,Y13,Not Used
+X14,Address Auto Recognition Flag,Y14,Not Used
+X15,Address Duplication Check Flag,Y15,Not Used
+X16,Remote Unit Exchange in Progress Flag,Y16,Not Used
+X17,Remote Unit Exchange Complete Flag,Y17,Not Used
+X18,Not Used,Y18,Not Used
+X19,Not Used,Y19,Not Used
+X1A,Not Used,Y1A,Not Used
+X1B,Not Used,Y1B,Not Used
+X1C,Not Used,Y1C,Not Used
+X1D,Not Used,Y1D,Not Used
+X1E,Not Used,Y1E,Not Used
+X1F,Not Used,Y1F,Not Used 

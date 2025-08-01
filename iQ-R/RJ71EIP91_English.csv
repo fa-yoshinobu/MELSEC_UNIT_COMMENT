@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,Unit Ready,Y00,Not Used
+X01,Not Used,Y01,Not Used
+X02,Not Used,Y02,Not Used
+X03,Not Used,Y03,Not Used
+X04,Not Used,Y04,Not Used
+X05,Not Used,Y05,Not Used
+X06,Not Used,Y06,Not Used
+X07,Not Used,Y07,Not Used
+X08,Not Used,Y08,Not Used
+X09,Not Used,Y09,Not Used
+X0A,Not Used,Y0A,Not Used
+X0B,Not Used,Y0B,Not Used
+X0C,Not Used,Y0C,Not Used
+X0D,Not Used,Y0D,Not Used
+X0E,Not Used,Y0E,Not Used
+X0F,Local Error,Y0F,Local Error Clear Request
+X10,EtherNet/IP Communication Starting,Y10,EtherNet/IP Communication Start Request
+X11,Not Used,Y11,PING Test Execution Request
+X12,PING Test Complete,Y12,Not Used
+X13,Not Used,Y13,Not Used
+X14,Connection Information Read Process Complete,Y14,Connection Information Read Request
+X15,Connection Information Read Error Complete,Y15,Not Used
+X16,Not Used,Y16,Not Used
+X17,Not Used,Y17,Not Used
+X18,Not Used,Y18,Not Used
+X19,Not Used,Y19,Not Used
+X1A,Not Used,Y1A,Not Used
+X1B,Not Used,Y1B,Not Used
+X1C,Not Used,Y1C,Not Used
+X1D,Not Used,Y1D,Not Used
+X1E,Not Used,Y1E,Not Used
+X1F,Communication Ready,Y1F,Not Used 

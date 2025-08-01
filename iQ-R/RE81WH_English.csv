@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,Unit Ready,Y00,Not Used
+X01,Period Power Consumption 1 Data Confirmation Flag,Y01,Period Power Consumption 1 Measurement Flag
+X02,Period Power Consumption 2 Data Confirmation Flag,Y02,Period Power Consumption 2 Measurement Flag
+X03,Period Power Consumption 1 Reset Complete Flag,Y03,Period Power Consumption 1 Reset Request
+X04,Period Power Consumption 2 Reset Complete Flag,Y04,Period Power Consumption 2 Reset Request
+X05,Not Used,Y05,Not Used
+X06,Waveform Data Acquisition Clock,Y06,Not Used
+X07,Harmonic Measurement Data Acquisition Clock,Y07,Not Used
+X08,Measurement Data Acquisition Clock,Y08,Not Used
+X09,Operation Condition Setting Flag,Y09,Operation Condition Setting Request
+X0A,Alarm 1 Occurrence Flag,Y0A,Alarm 1 Reset Request
+X0B,Alarm 2 Occurrence Flag,Y0B,Alarm 2 Reset Request
+X0C,Accumulated Value Set Complete Flag,Y0C,Accumulated Value Set Request
+X0D,Maximum/Minimum Value Clear Complete Flag,Y0D,Maximum/Minimum Value Clear Request
+X0E,Not Used,Y0E,Not Used
+X0F,Error Occurrence Flag,Y0F,Error Clear Request
+X10,Not Used,Y10,Not Used
+X11,Not Used,Y11,Not Used
+X12,Not Used,Y12,Not Used
+X13,Not Used,Y13,Not Used
+X14,Not Used,Y14,Not Used
+X15,Not Used,Y15,Not Used
+X16,Not Used,Y16,Not Used
+X17,Not Used,Y17,Not Used
+X18,Not Used,Y18,Not Used
+X19,Not Used,Y19,Not Used
+X1A,Not Used,Y1A,Not Used
+X1B,Not Used,Y1B,Not Used
+X1C,Not Used,Y1C,Not Used
+X1D,Not Used,Y1D,Not Used
+X1E,Not Used,Y1E,Not Used
+X1F,Not Used,Y1F,Not Used 

@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,Watchdog Timer Error,Y00,Not Used
+X01,I/O Communication in Progress,Y01,Not Used
+X02,Message Communication Complete,Y02,Not Used
+X03,Master Function Error Set Signal,Y03,Not Used
+X04,Slave Down Signal,Y04,Not Used
+X05,Message Communication Error Signal,Y05,Not Used
+X06,Parameter Save/Clear to Flash ROM in Progress,Y06,Not Used
+X07,Parameter Save/Clear to Flash ROM Complete,Y07,Not Used
+X08,Slave Function Error Set Signal,Y08,Not Used
+X09,Not Used,Y09,Not Used
+X0A,Hardware Test in Progress,Y0A,Not Used
+X0B,Hardware Test Complete,Y0B,Not Used
+X0C,Hardware Test Error Detection,Y0C,Not Used
+X0D,Not Used,Y0D,Not Used
+X0E,Not Used,Y0E,Not Used
+X0F,Unit Ready,Y0F,Not Used
+X10,Not Used,Y10,Not Used
+X11,Not Used,Y11,I/O Communication Request
+X12,Not Used,Y12,Message Communication Request
+X13,Not Used,Y13,Master Function Error Reset Request
+X14,Auto Configuration in Progress,Y14,Not Used
+X15,Auto Configuration Complete,Y15,Auto Configuration Request
+X16,Not Used,Y16,Not Used
+X17,Not Used,Y17,Parameter Save/Clear to Flash ROM Request
+X18,Not Used,Y18,Slave Function Error Reset Request
+X19,Not Used,Y19,Not Used
+X1A,Not Used,Y1A,Not Used
+X1B,Not Used,Y1B,Not Used
+X1C,Not Used,Y1C,Not Used
+X1D,Not Used,Y1D,Not Used
+X1E,Not Used,Y1E,Not Used
+X1F,Not Used,Y1F,Not Used 

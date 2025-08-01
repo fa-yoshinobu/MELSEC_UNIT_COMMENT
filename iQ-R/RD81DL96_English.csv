@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,Unit Ready,Y00,Not Used
+X01,SD Memory Card Mount Status,Y01,Not Used
+X02,File Access Status,Y02,File Access Stop Request
+X03,Not Used,Y03,File Access Stop Release Request
+X04,Not Used,Y04,Not Used
+X05,Unit Operation Status,Y05,Not Used
+X06,Not Used,Y06,Not Used
+X07,INFO LED Status,Y07,INFO LED Clear Request
+X08,Setting Update Status,Y08,Setting Update Request
+X09,Not Used,Y09,Not Used
+X0A,Not Used,Y0A,Not Used
+X0B,Time Synchronization Timing,Y0B,Time Synchronization Request
+X0C,Not Used,Y0C,Not Used
+X0D,Not Used,Y0D,Not Used
+X0E,Not Used,Y0E,Not Used
+X0F,Not Used,Y0F,Not Used
+X10,ERR LED Status,Y10,Error Clear Request
+X11,Not Used,Y11,Not Used
+X12,Data Logging Error,Y12,Not Used
+X13,Event Logging Error,Y13,Not Used
+X14,Report Creation Error,Y14,Not Used
+X15,Not Used,Y15,Not Used
+X16,Access Target Unit Error,Y16,Not Used
+X17,Email Transmission Error,Y17,Not Used
+X18,File Transfer Error,Y18,Not Used
+X19,Other Error,Y19,Not Used
+X1A,High-Speed Collection Failure Occurrence,Y1A,Not Used
+X1B,Processing Over Occurrence,Y1B,Not Used
+X1C,Trigger Re-occurrence,Y1C,Not Used
+X1D,Creation Trigger Re-occurrence,Y1D,Not Used
+X1E,General Collection Delay Occurrence,Y1E,Not Used
+X1F,Not Used,Y1F,Not Used 

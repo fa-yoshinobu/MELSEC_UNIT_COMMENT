@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,CH1 Transmission Normal Complete,Y00,CH1 Transmission Request
+X01,CH1 Transmission Error Complete,Y01,CH1 Reception Read Complete
+X02,CH1 Transmission in Progress,Y02,CH1 Mode Change Request
+X03,CH1 Reception Read Request,Y03,CH1 Protocol Execution Request
+X04,CH1 Reception Error Detection,Y04,Not Used
+X05,CH1 Protocol Execution Complete,Y05,Not Used
+X06,CH1 Mode Change in Progress,Y06,Not Used
+X07,CH2 Transmission Normal Complete,Y07,CH2 Transmission Request
+X08,CH2 Transmission Error Complete,Y08,CH2 Reception Read Complete
+X09,CH2 Transmission in Progress,Y09,CH2 Mode Change Request
+X0A,CH2 Reception Read Request,Y0A,CH2 Protocol Execution Request
+X0B,CH2 Reception Error Detection,Y0B,Not Used
+X0C,CH2 Protocol Execution Complete,Y0C,Not Used
+X0D,CH2 Mode Change in Progress,Y0D,Not Used
+X0E,CH1 Error Occurrence,Y0E,Error Initialization Request
+X0F,CH2 Error Occurrence,Y0F,Not Used
+X10,Modem Initialization Complete,Y10,Modem Initialization Request
+X11,Dialing in Progress,Y11,Line Connection Request
+X12,Line Connection in Progress,Y12,Line Disconnection Request
+X13,Initial Line Connection Failure,Y13,Not Used
+X14,Line Disconnection Complete,Y14,Not Used
+X15,Not Used,Y15,Not Used
+X16,Not Used,Y16,Not Used
+X17,User Registration Frame Read from Flash ROM Complete,Y17,User Registration Frame Read from Flash ROM Request
+X18,User Registration Frame Load from Flash ROM Complete,Y18,User Registration Frame Write to Flash ROM Request
+X19,Not Used,Y19,Not Used
+X1A,CH1 Global Signal,Y1A,Not Used
+X1B,CH2 Global Signal,Y1B,Not Used
+X1C,Parameter Initialization Complete,Y1C,Parameter Initialization Request
+X1D,Communication Protocol Ready Complete,Y1D,Not Used
+X1E,Unit Ready,Y1E,Not Used
+X1F,Watchdog Timer Error,Y1F,Not Used 
