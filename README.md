@@ -22,14 +22,7 @@
 MELSEC_UNIT_COMMENT/
 ├── README.md
 └── iQ-R/
-    ├── RJ61BT11_Japanese.csv
-    ├── RJ61BT11_English.csv
-    ├── RJ71EN71(Ethernet)_Japanese.csv
-    ├── RJ71EN71(Ethernet)_English.csv
-    ├── RJ71EN71(Q Compatible Ethernet)_English.csv
-    ├── RJ71EN71(Q互換Ethernet)_Japanese.csv
-    ├── RJ71GN11-EIP_Japanese.csv
-    └── RJ71GN11-EIP_English.csv
+
 ```
 
 ## CSVファイル形式
@@ -68,48 +61,9 @@ MELSEC_UNIT_COMMENT/
 ## 対応シリーズ
 
 ### iQ-R シリーズ
-- 最新のMELSEC iQ-Rシリーズに対応
-- 高性能な通信機能を提供
-- リアルタイム性と信頼性を重視
-
-## 注意事項
-
-1. **使用禁止デバイス**
-   - 一部のデバイスは「使用禁止」となっています
-   - これらのデバイスは予約済みまたは将来の拡張用です
-
-2. **通信状態監視**
-   - 各ユニットの通信状態は専用のデバイスで監視可能
-   - 異常検出時は適切なエラー処理を実装してください
-
-3. **バージョン管理**
-   - ユニットのファームウェアバージョンにより動作が異なる場合があります
-   - 最新のマニュアルも併せてご確認ください
 
 ## 更新履歴
 
 - 初期版: 基本的な入出力信号割り付け情報を追加
 - 対応ユニット: RJ61BT11, RJ71EN71, RJ71GN11-EIP
 
-## ライセンス
-
-このプロジェクトは教育・開発目的で作成されています。
-商用利用の際は、三菱電機の利用規約をご確認ください。
-
-## 関連リンク
-
-- [三菱電機 MELSEC iQ-R シリーズ](https://www.mitsubishielectric.co.jp/fa/products/cnt/plclogic/melsec/iqr/)
-- [MELSEC iQ-R プログラミングマニュアル](https://www.mitsubishielectric.co.jp/fa/document/manual/)
-
-## 貢献
-
-このプロジェクトへの貢献を歓迎します。以下の方法で貢献できます：
-
-1. 新しいユニットの追加
-2. 既存データの修正・改善
-3. ドキュメントの改善
-4. バグの報告
-
-## 連絡先
-
-プロジェクトに関する質問や提案がございましたら、Issueを作成してください。
