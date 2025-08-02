@@ -1,3 +1,56 @@
+# MELSEC PLC Intelligent Unit I/O Signal Assignment
+
+## Overview
+
+This repository manages I/O signal assignment information for Mitsubishi Electric MELSEC PLC Intelligent Units. It provides device assignments and comments for input/output devices (X/Y) in both Japanese and English, serving as a reference for PLC programming.
+
+## Supported Units
+
+This project supports communication units, data logging units, and other intelligent units from the iQ-R series.
+
+## CSV File Format
+
+Each CSV file contains the following format:
+
+| Column | Description |
+|---|---|
+| Device | Device number (X00, Y00, etc.) |
+| Comment | Device function description |
+
+### Input Device (X) Examples
+- `X00` - Unit error
+- `X01` - Local data link status
+- `X0F` - Unit ready
+
+### Output Device (Y) Examples
+- `Y00` - Use prohibit
+- `Y17` - ERR LED turn-off request
+
+## Usage
+
+### 1. File Selection
+Select the CSV file corresponding to your intelligent unit.
+
+### 2. Data Reference
+- **Japanese version**: `*_Japanese.csv`
+- **English version**: `*_English.csv`
+
+### 3. PLC Programming Applications
+- I/O signal assignment verification
+- Device comment configuration
+- Communication status monitoring program creation
+- Error handling program implementation
+- Communication parameter setup
+- Data link status monitoring
+
+## Important Notes
+
+- I/O signal assignments may vary depending on unit configuration and firmware version
+- Please refer to the corresponding unit manual for actual usage
+- Use this repository information as reference material and consult the latest manual for actual system design
+
+---
+
 # MELSEC PLC インテリユニット 入出力信号割り付け
 
 ## 概要
@@ -44,7 +97,6 @@ iQ-R シリーズの通信ユニット、データログユニット、その他
 - エラー処理プログラムの実装
 - 通信パラメータの設定
 - データリンク状態の監視
-
 
 ## 注意事項
 
