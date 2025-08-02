@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,Unit READY,Y00,Not Used
+X01,Not Used,Y01,Not Used
+X02,Not Used,Y02,Not Used
+X03,Operation Condition Setting Batch Reset Complete Flag,Y03,Operation Condition Setting Batch Reset Command
+X04,Hardware Logic Control In Progress Flag,Y04,Hardware Logic Control Start Request
+X05,Not Used,Y05,Hardware Logic Control Stop Request
+X06,Not Used,Y06,Isolation Hardware Logic Control Stop Signal
+X07,Isolation Hardware Logic Control Stop Flag,Y07,Isolation Hardware Logic Control Stop Flag Clear Request
+X08,Not Used,Y08,Not Used
+X09,Not Used,Y09,Not Used
+X0A,Not Used,Y0A,Not Used
+X0B,Not Used,Y0B,Not Used
+X0C,Not Used,Y0C,Not Used
+X0D,No.1 A/D Conversion Value Logging Area Switch Request Complete Flag,Y0D,No.1 A/D Conversion Value Logging Area Switch Request
+X0E,No.2 A/D Conversion Value Logging Area Switch Request Complete Flag,Y0E,No.2 A/D Conversion Value Logging Area Switch Request
+X0F,Error Occurrence Flag,Y0F,Error Clear Request
+X10,IN 0,Y10,General Command 0
+X11,IN 1,Y11,General Command 1
+X12,IN 2,Y12,General Command 2
+X13,IN 3,Y13,General Command 3
+X14,IN 4,Y14,General Command 4
+X15,IN 5,Y15,General Command 5
+X16,IN 6,Y16,General Command 6
+X17,IN 7,Y17,General Command 7
+X18,IN 8,Y18,General Command 8
+X19,IN 9,Y19,General Command 9
+X1A,IN A,Y1A,General Command A
+X1B,IN B,Y1B,General Command B
+X1C,Not Used,Y1C,General Command C
+X1D,Not Used,Y1D,General Command D
+X1E,Not Used,Y1E,General Command E
+X1F,Not Used,Y1F,General Command F 

@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,Unit READY,Y00,Not Used
+X01,Operation Condition Setting Complete Flag,Y01,Operation Condition Setting Request Flag
+X02,Not Used,Y02,Not Used
+X03,Not Used,Y03,Not Used
+X04,Not Used,Y04,Not Used
+X05,Not Used,Y05,Not Used
+X06,Not Used,Y06,Not Used
+X07,Not Used,Y07,Not Used
+X08,CH1 Error Occurrence,Y08,CH1 Error Reset Request
+X09,CH2 Error Occurrence,Y09,CH2 Error Reset Request
+X0A,CH3 Error Occurrence,Y0A,CH3 Error Reset Request
+X0B,CH4 Error Occurrence,Y0B,CH4 Error Reset Request
+X0C,CH5 Error Occurrence,Y0C,CH5 Error Reset Request
+X0D,CH6 Error Occurrence,Y0D,CH6 Error Reset Request
+X0E,CH7 Error Occurrence,Y0E,CH7 Error Reset Request
+X0F,CH8 Error Occurrence,Y0F,CH8 Error Reset Request
+X10,CH1 Total Counter Compare Flag,Y10,CH1 Compare Signal Reset Request
+X11,CH2 Total Counter Compare Flag,Y11,CH2 Compare Signal Reset Request
+X12,CH3 Total Counter Compare Flag,Y12,CH3 Compare Signal Reset Request
+X13,CH4 Total Counter Compare Flag,Y13,CH4 Compare Signal Reset Request
+X14,CH5 Total Counter Compare Flag,Y14,CH5 Compare Signal Reset Request
+X15,CH6 Total Counter Compare Flag,Y15,CH6 Compare Signal Reset Request
+X16,CH7 Total Counter Compare Flag,Y16,CH7 Compare Signal Reset Request
+X17,CH8 Total Counter Compare Flag,Y17,CH8 Compare Signal Reset Request
+X18,Not Used,Y18,CH1 Counter Enable
+X19,Not Used,Y19,CH2 Counter Enable
+X1A,Not Used,Y1A,CH3 Counter Enable
+X1B,Not Used,Y1B,CH4 Counter Enable
+X1C,Not Used,Y1C,CH5 Counter Enable
+X1D,Not Used,Y1D,CH6 Counter Enable
+X1E,Not Used,Y1E,CH7 Counter Enable
+X1F,Not Used,Y1F,CH8 Counter Enable 

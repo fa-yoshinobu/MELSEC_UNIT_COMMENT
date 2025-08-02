@@ -1,0 +1,17 @@
+Device,Comment,Device,Comment
+X00,Unit READY,Y00,CH1 Match Signal No.1 Reset Command
+X01,CH1 Counter Value High (Point No.1),Y01,CH1 Preset Command
+X02,CH1 Counter Value Match (Point No.1),Y02,CH1 Match Signal Enable Command
+X03,CH1 Counter Value Low (Point No.1),Y03,CH1 Down Count Command
+X04,CH1 External Preset Request Detection,Y04,CH1 Counter Enable Command
+X05,CH1 Counter Value High (Point No.2),Y05,CH1 External Preset Detection Reset Command
+X06,CH1 Counter Value Match (Point No.2),Y06,CH1 Counter Function Selection Start Command/PWM Output Start Command/Pulse Measurement Start Command
+X07,CH1 Counter Value Low (Point No.2),Y07,CH1 Match Signal No.2 Reset Command
+X08,CH2 Counter Value High (Point No.1),Y08,CH2 Match Signal No.1 Reset Command
+X09,CH2 Counter Value Match (Point No.1),Y09,CH2 Preset Command
+X0A,CH2 Counter Value Low (Point No.1),Y0A,CH2 Match Signal Enable Command
+X0B,CH2 External Preset Request Detection,Y0B,CH2 Down Count Command
+X0C,CH2 Counter Value High (Point No.2),Y0C,CH2 Counter Enable Command
+X0D,CH2 Counter Value Match (Point No.2),Y0D,CH2 External Preset Detection Reset Command
+X0E,CH2 Counter Value Low (Point No.2),Y0E,CH2 Counter Function Selection Start Command/PWM Output Start Command/Pulse Measurement Start Command
+X0F,Not Used,Y0F,CH2 Match Signal No.2 Reset Command 
