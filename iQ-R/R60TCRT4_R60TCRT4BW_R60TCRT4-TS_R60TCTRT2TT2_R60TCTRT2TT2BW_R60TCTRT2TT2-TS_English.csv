@@ -1,0 +1,17 @@
+Device,Comment,Device,Comment
+X00,Unit READY Flag,Y00,Not Available
+X01,Setting/Operation Mode Status,Y01,Setting/Operation Mode Command
+X02,Error Occurrence Flag,Y02,Error Reset Command
+X03,Hardware Error Flag,Y03,Not Available
+X04,CH1 Auto Tuning Status,Y04,CH1 Auto Tuning Command
+X05,CH2 Auto Tuning Status,Y05,CH2 Auto Tuning Command
+X06,CH3 Auto Tuning Status,Y06,CH3 Auto Tuning Command
+X07,CH4 Auto Tuning Status,Y07,CH4 Auto Tuning Command
+X08,Setting Value Backup Complete Flag,Y08,Setting Value Backup Command
+X09,Default Value Write Complete Flag,Y09,Default Setting Registration Command
+X0A,Setting Value Backup Failure Flag,Y0A,Not Available
+X0B,Setting Change Complete Flag,Y0B,Setting Change Command
+X0C,CH1 Alarm Occurrence Flag,Y0C,CH1 PID Control Force Stop Command
+X0D,CH2 Alarm Occurrence Flag,Y0D,CH2 PID Control Force Stop Command
+X0E,CH3 Alarm Occurrence Flag,Y0E,CH3 PID Control Force Stop Command
+X0F,CH4 Alarm Occurrence Flag,Y0F,CH4 PID Control Force Stop Command 

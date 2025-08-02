@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,Preparation Complete,Y00,Sequence Ready
+X01,Synchronization Flag,Y01,All Axis Servo ON
+X02,Not Used,Y02,Not Used
+X03,Not Used,Y03,Not Used
+X04,Not Used,Y04,Not Used
+X05,Not Used,Y05,Not Used
+X06,Not Used,Y06,Not Used
+X07,Not Used,Y07,Not Used
+X08,Not Used,Y08,Not Used
+X09,Not Used,Y09,Not Used
+X0A,Not Used,Y0A,Not Used
+X0B,Not Used,Y0B,Not Used
+X0C,Not Used,Y0C,Not Used
+X0D,Not Used,Y0D,Not Used
+X0E,Not Used,Y0E,Not Used
+X0F,Not Used,Y0F,Not Used
+X10,Axis1 BUSY,Y10,Axis1 Positioning Start
+X11,Axis2 BUSY,Y11,Axis2 Positioning Start
+X12,Axis3 BUSY,Y12,Axis3 Positioning Start
+X13,Axis4 BUSY,Y13,Axis4 Positioning Start
+X14,Axis5 BUSY,Y14,Axis5 Positioning Start
+X15,Axis6 BUSY,Y15,Axis6 Positioning Start
+X16,Axis7 BUSY,Y16,Axis7 Positioning Start
+X17,Axis8 BUSY,Y17,Axis8 Positioning Start
+X18,Axis9 BUSY,Y18,Axis9 Positioning Start
+X19,Axis10 BUSY,Y19,Axis10 Positioning Start
+X1A,Axis11 BUSY,Y1A,Axis11 Positioning Start
+X1B,Axis12 BUSY,Y1B,Axis12 Positioning Start
+X1C,Axis13 BUSY,Y1C,Axis13 Positioning Start
+X1D,Axis14 BUSY,Y1D,Axis14 Positioning Start
+X1E,Axis15 BUSY,Y1E,Axis15 Positioning Start
+X1F,Axis16 BUSY,Y1F,Axis16 Positioning Start

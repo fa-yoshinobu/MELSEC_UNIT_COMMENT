@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,Unit READY,Y00,Not Used
+X01,Not Used,Y01,CH1 Output Enable/Disable Flag
+X02,Not Used,Y02,CH2 Output Enable/Disable Flag
+X03,Not Used,Y03,CH3 Output Enable/Disable Flag
+X04,Not Used,Y04,CH4 Output Enable/Disable Flag
+X05,Not Used,Y05,CH5 Output Enable/Disable Flag
+X06,Not Used,Y06,CH6 Output Enable/Disable Flag
+X07,External Power Supply READY Flag (CH1-CH8),Y07,CH7 Output Enable/Disable Flag
+X08,Not Used,Y08,CH8 Output Enable/Disable Flag
+X09,Operation Condition Setting Complete Flag,Y09,Operation Condition Setting Request
+X0A,Offset/Gain Setting Mode Status Flag,Y0A,User Range Write Request
+X0B,Channel Change Complete Flag,Y0B,Channel Change Request
+X0C,Setting Value Change Complete Flag,Y0C,Setting Value Change Request
+X0D,Wire Break Detection Signal,Y0D,Not Used
+X0E,Alarm Output Signal,Y0E,Alarm Output Clear Request
+X0F,Error Occurrence Flag,Y0F,Error Clear Request
+X10,Not Used,Y10,Not Used
+X11,Not Used,Y11,CH9 Output Enable/Disable Flag
+X12,Not Used,Y12,CH10 Output Enable/Disable Flag
+X13,Not Used,Y13,CH11 Output Enable/Disable Flag
+X14,Not Used,Y14,CH12 Output Enable/Disable Flag
+X15,Not Used,Y15,CH13 Output Enable/Disable Flag
+X16,Not Used,Y16,CH14 Output Enable/Disable Flag
+X17,External Power Supply READY Flag (CH9-CH16),Y17,CH15 Output Enable/Disable Flag
+X18,Not Used,Y18,CH16 Output Enable/Disable Flag
+X19,Not Used,Y19,Not Used
+X1A,Not Used,Y1A,Not Used
+X1B,Not Used,Y1B,Not Used
+X1C,Not Used,Y1C,Not Used
+X1D,Not Used,Y1D,Not Used
+X1E,Not Used,Y1E,Not Used
+X1F,Not Used,Y1F,Not Used 

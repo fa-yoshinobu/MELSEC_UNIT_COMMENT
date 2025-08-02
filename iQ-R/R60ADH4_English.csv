@@ -1,0 +1,17 @@
+Device,Comment,Device,Comment
+X00,Unit READY,Y00,Not Used
+X01,Not Used,Y01,CH1 Logging Hold Request
+X02,Not Used,Y02,CH2 Logging Hold Request
+X03,Not Used,Y03,CH3 Logging Hold Request
+X04,Not Used,Y04,CH4 Logging Hold Request
+X05,Not Used,Y05,Not Used
+X06,Not Used,Y06,Not Used
+X07,Not Used,Y07,Not Used
+X08,Alarm Output Signal,Y08,Not Used
+X09,Operation Condition Setting Complete Flag,Y09,Operation Condition Setting Request
+X0A,Offset/Gain Setting Mode Status Flag,Y0A,User Range Write Request
+X0B,Channel Change Complete Flag,Y0B,Channel Change Request
+X0C,Input Signal Error Detection Signal,Y0C,Not Used
+X0D,Max/Min Value Reset Complete Flag,Y0D,Max/Min Value Reset Request
+X0E,A/D Conversion Complete Flag,Y0E,Not Used
+X0F,Error Occurrence Flag,Y0F,Error Clear Request

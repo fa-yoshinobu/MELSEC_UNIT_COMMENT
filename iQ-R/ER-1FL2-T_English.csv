@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,Message Transmission Normal Complete Signal,Y00,Message Transmission Request
+X01,Message Transmission Abnormal Complete Signal,Y01,Not Used
+X02,Message Reception In Progress Signal,Y02,Message Reception Complete Confirmation
+X03,Not Used,Y03,Not Used
+X04,Not Used,Y04,Not Used
+X05,Not Used,Y05,Not Used
+X06,Not Used,Y06,Not Used
+X07,Not Used,Y07,Not Used
+X08,Not Used,Y08,Not Used
+X09,Not Used,Y09,Not Used
+X0A,Not Used,Y0A,Not Used
+X0B,Not Used,Y0B,Not Used
+X0C,Not Used,Y0C,Not Used
+X0D,Not Used,Y0D,Not Used
+X0E,Not Used,Y0E,Not Used
+X0F,Not Used,Y0F,Not Used
+X10,Network Parameter Write Complete Signal,Y10,Network Parameter Write Request
+X11,Network Parameter/Participation Node Information Read Complete Signal,Y11,Network Parameter/Participation Node Information Read Request
+X12,Not Used,Y12,Not Used
+X13,Device Profile Read Complete Signal,Y13,Device Profile Read Request
+X14,Log Information Clear Complete Signal,Y14,Log Information Clear Request
+X15,Log Information Read Complete Signal,Y15,Log Information Read Request
+X16,Not Used,Y16,Not Used
+X17,Not Used,Y17,Not Used
+X18,Network Parameter Setting Status Signal,Y18,Not Used
+X19,Token Entry Status Signal,Y19,Not Used
+X1A,Not Used,Y1A,Not Used
+X1B,Not Used,Y1B,Not Used
+X1C,Unit READY,Y1C,Not Used
+X1D,Not Used,Y1D,Not Used
+X1E,Not Used,Y1E,Not Used
+X1F,Watchdog Timer Error Detection Signal,Y1F,Not Used

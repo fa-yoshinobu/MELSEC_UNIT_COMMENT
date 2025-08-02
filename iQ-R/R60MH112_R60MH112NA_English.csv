@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,Unit READY,Y00,Not Used
+X01,Sensor Head Exchange Request Reception Status,Y01,Sensor Head Exchange Request
+X02,Sensor Head A READY,Y02,Not Used
+X03,Sensor Head B READY,Y03,Not Used
+X04,Sensor Head Config Phase Complete,Y04,Not Used
+X05,Not Used,Y05,Not Used
+X06,Not Used,Y06,Not Used
+X07,Not Used,Y07,Not Used
+X08,Command Execution Request Reception Status,Y08,Command Execution Request
+X09,Command Execution Complete,Y09,Not Used
+X0A,Parameter Setting Request Reception Status,Y0A,Parameter Setting Request
+X0B,Parameter Setting Complete,Y0B,Not Used
+X0C,Received Light Waveform Data Update Complete,Y0C,Received Light Waveform Data Update Request
+X0D,Not Used,Y0D,Not Used
+X0E,Error Flag,Y0E,Not Used
+X0F,Not Used,Y0F,Not Used
+X10,Judgment Output LO OUT1,Y10,Not Used
+X11,Judgment Output LO OUT2,Y11,Not Used
+X12,Judgment Output GO OUT1,Y12,Not Used
+X13,Judgment Output GO OUT2,Y13,Not Used
+X14,Judgment Output HI OUT1,Y14,Not Used
+X15,Judgment Output HI OUT2,Y15,Not Used
+X16,Strobe Signal OUT1,Y16,Not Used
+X17,Strobe Signal OUT2,Y17,Not Used
+X18,Alarm Signal OUT1,Y18,Reset OUT1
+X19,Alarm Signal OUT2,Y19,Reset OUT2
+X1A,Zero Set Status OUT1,Y1A,Zero Set ON OUT1
+X1B,Zero Set Status OUT2,Y1B,Zero Set ON OUT2
+X1C,Not Used,Y1C,Zero Set OFF OUT1
+X1D,Not Used,Y1D,Zero Set OFF OUT2
+X1E,Timing Status OUT1,Y1E,Timing Request OUT1
+X1F,Timing Status OUT2,Y1F,Timing Request OUT2

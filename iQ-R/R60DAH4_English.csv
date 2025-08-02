@@ -1,0 +1,17 @@
+Device,Comment,Device,Comment
+X00,Unit READY,Y00,Not Used
+X01,Not Used,Y01,CH1 Output Enable/Disable Flag
+X02,Not Used,Y02,CH2 Output Enable/Disable Flag
+X03,Not Used,Y03,CH3 Output Enable/Disable Flag
+X04,Not Used,Y04,CH4 Output Enable/Disable Flag
+X05,Not Used,Y05,Not Used
+X06,Not Used,Y06,Not Used
+X07,External Power Supply READY Flag,Y07,Not Used
+X08,Not Used,Y08,Not Used
+X09,Operation Condition Setting Complete Flag,Y09,Operation Condition Setting Request
+X0A,Offset/Gain Setting Mode Status Flag,Y0A,User Range Write Request
+X0B,Channel Change Complete Flag,Y0B,Channel Change Request
+X0C,Setting Value Change Complete Flag,Y0C,Setting Value Change Request
+X0D,Wire Break Detection Signal,Y0D,Not Used
+X0E,Alarm Output Signal,Y0E,Alarm Output Clear Request
+X0F,Error Occurrence Flag,Y0F,Error Clear Request 

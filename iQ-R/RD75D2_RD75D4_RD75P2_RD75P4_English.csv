@@ -1,0 +1,33 @@
+Device,Comment,Device,Comment
+X00,RD75 Preparation Complete,Y00,Sequence Ready
+X01,Unit Access Flag,Y01,Not Used
+X02,Not Used,Y02,Not Used
+X03,Not Used,Y03,Not Used
+X04,Axis1 M Code ON,Y04,Axis1 Axis Stop
+X05,Axis2 M Code ON,Y05,Axis2 Axis Stop
+X06,Axis3 M Code ON,Y06,Axis3 Axis Stop
+X07,Axis4 M Code ON,Y07,Axis4 Axis Stop
+X08,Axis1 Error Detection,Y08,Axis1 Forward JOG Start
+X09,Axis2 Error Detection,Y09,Axis1 Reverse JOG Start
+X0A,Axis3 Error Detection,Y0A,Axis2 Forward JOG Start
+X0B,Axis4 Error Detection,Y0B,Axis2 Reverse JOG Start
+X0C,Axis1 BUSY,Y0C,Axis3 Forward JOG Start
+X0D,Axis2 BUSY,Y0D,Axis3 Reverse JOG Start
+X0E,Axis3 BUSY,Y0E,Axis4 Forward JOG Start
+X0F,Axis4 BUSY,Y0F,Axis4 Reverse JOG Start
+X10,Axis1 Start Complete,Y10,Axis1 Positioning Start
+X11,Axis2 Start Complete,Y11,Axis2 Positioning Start
+X12,Axis3 Start Complete,Y12,Axis3 Positioning Start
+X13,Axis4 Start Complete,Y13,Axis4 Positioning Start
+X14,Axis1 Positioning Complete,Y14,Axis1 Execution Inhibit Flag
+X15,Axis2 Positioning Complete,Y15,Axis2 Execution Inhibit Flag
+X16,Axis3 Positioning Complete,Y16,Axis3 Execution Inhibit Flag
+X17,Axis4 Positioning Complete,Y17,Axis4 Execution Inhibit Flag
+X18,Not Used,Y18,Not Used
+X19,Not Used,Y19,Not Used
+X1A,Not Used,Y1A,Not Used
+X1B,Not Used,Y1B,Not Used
+X1C,Not Used,Y1C,Not Used
+X1D,Not Used,Y1D,Not Used
+X1E,Not Used,Y1E,Not Used
+X1F,Not Used,Y1F,Not Used

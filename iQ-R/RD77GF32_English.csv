@@ -1,0 +1,65 @@
+Device,Comment,Device,Comment
+X00,Preparation Complete,Y00,Sequence Ready
+X01,Synchronization Flag,Y01,All Axis Servo ON
+X02,Not Used,Y02,Not Used
+X03,Not Used,Y03,Not Used
+X04,Not Used,Y04,Not Used
+X05,Not Used,Y05,Not Used
+X06,Not Used,Y06,Not Used
+X07,Not Used,Y07,Not Used
+X08,Not Used,Y08,Not Used
+X09,Not Used,Y09,Not Used
+X0A,Not Used,Y0A,Not Used
+X0B,Not Used,Y0B,Not Used
+X0C,Not Used,Y0C,Not Used
+X0D,Not Used,Y0D,Not Used
+X0E,Not Used,Y0E,Not Used
+X0F,Not Used,Y0F,Not Used
+X10,Axis1 BUSY,Y10,Axis1 Positioning Start
+X11,Axis2 BUSY,Y11,Axis2 Positioning Start
+X12,Axis3 BUSY,Y12,Axis3 Positioning Start
+X13,Axis4 BUSY,Y13,Axis4 Positioning Start
+X14,Axis5 BUSY,Y14,Axis5 Positioning Start
+X15,Axis6 BUSY,Y15,Axis6 Positioning Start
+X16,Axis7 BUSY,Y16,Axis7 Positioning Start
+X17,Axis8 BUSY,Y17,Axis8 Positioning Start
+X18,Axis9 BUSY,Y18,Axis9 Positioning Start
+X19,Axis10 BUSY,Y19,Axis10 Positioning Start
+X1A,Axis11 BUSY,Y1A,Axis11 Positioning Start
+X1B,Axis12 BUSY,Y1B,Axis12 Positioning Start
+X1C,Axis13 BUSY,Y1C,Axis13 Positioning Start
+X1D,Axis14 BUSY,Y1D,Axis14 Positioning Start
+X1E,Axis15 BUSY,Y1E,Axis15 Positioning Start
+X1F,Axis16 BUSY,Y1F,Axis16 Positioning Start
+X20,Axis17 BUSY,Y20,Axis17 Positioning Start
+X21,Axis18 BUSY,Y21,Axis18 Positioning Start
+X22,Axis19 BUSY,Y22,Axis19 Positioning Start
+X23,Axis20 BUSY,Y23,Axis20 Positioning Start
+X24,Axis21 BUSY,Y24,Axis21 Positioning Start
+X25,Axis22 BUSY,Y25,Axis22 Positioning Start
+X26,Axis23 BUSY,Y26,Axis23 Positioning Start
+X27,Axis24 BUSY,Y27,Axis24 Positioning Start
+X28,Axis25 BUSY,Y28,Axis25 Positioning Start
+X29,Axis26 BUSY,Y29,Axis26 Positioning Start
+X2A,Axis27 BUSY,Y2A,Axis27 Positioning Start
+X2B,Axis28 BUSY,Y2B,Axis28 Positioning Start
+X2C,Axis29 BUSY,Y2C,Axis29 Positioning Start
+X2D,Axis30 BUSY,Y2D,Axis30 Positioning Start
+X2E,Axis31 BUSY,Y2E,Axis31 Positioning Start
+X2F,Axis32 BUSY,Y2F,Axis32 Positioning Start
+X30,Not Used,Y30,Not Used
+X31,Not Used,Y31,Not Used
+X32,Not Used,Y32,Not Used
+X33,Not Used,Y33,Not Used
+X34,Not Used,Y34,Not Used
+X35,Not Used,Y35,Not Used
+X36,Not Used,Y36,Not Used
+X37,Not Used,Y37,Not Used
+X38,Not Used,Y38,Not Used
+X39,Not Used,Y39,Not Used
+X3A,Not Used,Y3A,Not Used
+X3B,Not Used,Y3B,Not Used
+X3C,Not Used,Y3C,Not Used
+X3D,Not Used,Y3D,Not Used
+X3E,Not Used,Y3E,Not Used
+X3F,Not Used,Y3F,Not Used
